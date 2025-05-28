@@ -27,6 +27,9 @@
     <td><a href="https://github.com/GSQueimadas">GSQueimadas</a></td>
   </tr>
   <tr>
+    <td><strong>Repositório Principal</strong></td>
+    <td><a href="https://github.com/GSQueimadas/Main">Main</a></td>
+  <tr>
     <td><strong>Link do PDF</strong></td>
     <td><a href="../utils/GS.pdf">GS.pdf</a></td>
   </tr>
