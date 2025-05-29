@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="../utils/logo/logo.png">
-        <img alt="Logo da EcoCharge" src="../utils/logo/logo.png" width="300">
+        <source media="(prefers-color-scheme: dark)" srcset="../utils/logo/logoDark.png">
+        <img alt="Logo da FireTrack" src="../utils/logo/logo.png" width="300">
     </picture>
 </p>
 
